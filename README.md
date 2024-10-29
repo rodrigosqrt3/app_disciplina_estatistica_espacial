@@ -1,0 +1,1 @@
+Este projeto consiste em um aplicativo Shiny interativo que explora a biodiversidade do Brasil, utilizando dados da API do GBIF (Global Biodiversity Information Facility). O aplicativo permite a visualização e análise das espécies distribuídas em diferentes biomas do país.
